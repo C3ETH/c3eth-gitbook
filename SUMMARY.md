@@ -6,3 +6,7 @@
 
 * [Eastern Hemisphere Town Hall](genesis/untitled.md)
 
+## Cardano Meetups
+
+* [Untitled](cardano-meetups/untitled.md)
+
