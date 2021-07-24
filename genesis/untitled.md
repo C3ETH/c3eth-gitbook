@@ -4,9 +4,7 @@ description: Ideation Guidelines
 
 # Eastern Hemisphere Town Hall
 
-{% embed url="https://docs.google.com/document/d/1kk\_lc4CXiu6k-8uqA3H2et-l8reIqN54-dbRF1nZJRA/edit" %}
-
-\*\*\*\*
+{% embed url="https://docs.google.com/document/d/1kk\_lc4CXiu6k-8uqA3H2et-l8reIqN54-dbRF1nZJRA/edit" caption="Ideation Guidelines" %}
 
 ## **BACKDROP**
 
