@@ -18,6 +18,8 @@ Read only - for reference
 
 ### Eastern Hemisphere Cardano Meet up
 
+{% embed url="https://docs.google.com/spreadsheets/d/1aoIWn3sz9VC315KrPG6jgtI\_r-vRm70Txae\_D0OrzE0/edit\#gid=0" %}
+
 
 
 
