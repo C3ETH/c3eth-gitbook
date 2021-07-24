@@ -1,4 +1,8 @@
+---
+description: Welcome Text and Introduction
+---
+
 # Catalyst-Eastern-Hemisphere
 
-Catalyst-Eastern-Hemisphere GitBook
+Welcome Text and Introduction
 
