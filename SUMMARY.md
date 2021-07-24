@@ -4,5 +4,5 @@
 
 ## Genesis
 
-* [Eastern Hemisphere Town Hall Ideation Guidelines](genesis/untitled.md)
+* [Eastern Hemisphere Town Hall](genesis/untitled.md)
 
