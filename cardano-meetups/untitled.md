@@ -16,5 +16,9 @@ Read only - for reference
 
 ## 29th July 
 
+### Eastern Hemisphere Cardano Meet up
+
+
+
 
 
