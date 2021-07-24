@@ -4,6 +4,10 @@ description: Ideation Guidelines
 
 # Eastern Hemisphere Town Hall
 
+{% embed url="https://docs.google.com/document/d/1kk\_lc4CXiu6k-8uqA3H2et-l8reIqN54-dbRF1nZJRA/edit" %}
+
+\*\*\*\*
+
 ## **BACKDROP**
 
 Acts as the reference for the current and future iterations on the method to create future TH based on regional preference.
