@@ -8,5 +8,5 @@
 
 ## Cardano Meetups
 
-* [July Meetups](cardano-meetups/untitled.md)
+* [July 2021 - Meetups](cardano-meetups/untitled.md)
 
