@@ -6,13 +6,15 @@ description: Cardano Meetups for July 2021
 
 ## 24th July
 
-## Saturday Cardano Meet-Up Planning. 
+### Saturday Cardano Meet-Up Planning. 
 
-### Topics Sheet
+#### Topics Sheet
 
 Read only - for reference
 
 {% embed url="https://docs.google.com/document/d/17ebf7i7P-BJjJVbaDsBRLMQlJfr3Pyx0dFNeWg\_HCkU/edit" %}
+
+## 29th July 
 
 
 
