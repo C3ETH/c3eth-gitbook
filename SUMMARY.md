@@ -7,13 +7,9 @@
 * [August 2021](eastern-town-halls/august-2021.md)
 * [July 2021](eastern-town-halls/untitled.md)
 
-## Cardano Meetups
-
-* [July 2021 - Meetups](cardano-meetups/untitled.md)
-
 ## Co-Ordination
 
-* [Untitled](co-ordination/untitled.md)
+* [July 2021 - Meetups](co-ordination/untitled.md)
 
 ## Genesis
 
