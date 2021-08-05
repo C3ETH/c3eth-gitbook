@@ -5,6 +5,7 @@
 ## Eastern Town Halls
 
 * [July 2021](eastern-town-halls/untitled.md)
+* [August 2021](eastern-town-halls/august-2021.md)
 
 ## Cardano Meetups
 
