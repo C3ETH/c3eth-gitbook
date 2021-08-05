@@ -1,8 +1,8 @@
 ---
-description: Cardano Meetups for July 2021
+description: Preparation for Eastern Town Hall - July 2021
 ---
 
-# July 2021 - Meetups
+# July 2021 - Preparation
 
 ## 24th July
 

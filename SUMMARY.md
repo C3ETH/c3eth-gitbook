@@ -9,7 +9,7 @@
 
 ## Co-Ordination
 
-* [July 2021 - Meetups](co-ordination/untitled.md)
+* [July 2021 - Preparation](co-ordination/untitled.md)
 
 ## Genesis
 
