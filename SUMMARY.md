@@ -2,9 +2,9 @@
 
 * [Catalyst-Eastern-Hemisphere](README.md)
 
-## Genesis
+## Eastern Town Halls
 
-* [Eastern Hemisphere Town Hall](genesis/untitled.md)
+* [Eastern Town Hall \#1](eastern-town-halls/untitled.md)
 
 ## Cardano Meetups
 
@@ -14,7 +14,9 @@
 
 * [Untitled](co-ordination/untitled.md)
 
-## Eastern Town Halls
+## Genesis
 
-* [Eastern Town Hall \#1](eastern-town-halls/untitled.md)
+* [Eastern Hemisphere Town Hall](genesis/untitled.md)
+
+
 
