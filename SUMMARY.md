@@ -18,5 +18,3 @@
 
 * [Eastern Hemisphere Town Hall](genesis/untitled.md)
 
-
-
