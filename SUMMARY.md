@@ -16,5 +16,5 @@
 
 ## Eastern Town Halls
 
-* [Untitled](eastern-town-halls/untitled.md)
+* [Eastern Town Hall \#1](eastern-town-halls/untitled.md)
 
