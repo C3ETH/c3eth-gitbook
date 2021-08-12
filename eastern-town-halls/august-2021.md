@@ -12,6 +12,14 @@ description: Eastern Town Halls - August 2021
 
 ## August 12th, 2021
 
+![](../.gitbook/assets/2021-08-12-4-.png)
+
+### Slides
+
+{% embed url="https://docs.google.com/presentation/d/1XH9lyFk\_Rv1MpidLhqCkdjKYbGVOXD2QGhgME9fbWgI/edit\#slide=id.ge559e9bfcb\_0\_1687" %}
+
+
+
 
 
 
