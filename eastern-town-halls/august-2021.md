@@ -18,6 +18,8 @@ description: Eastern Town Halls - August 2021
 
 {% embed url="https://docs.google.com/presentation/d/1XH9lyFk\_Rv1MpidLhqCkdjKYbGVOXD2QGhgME9fbWgI/edit\#slide=id.ge559e9bfcb\_0\_1687" %}
 
+### Discord Announcement
+
 ![Eastern Town Hall Announcement](../.gitbook/assets/2021-08-12-11-.png)
 
 
