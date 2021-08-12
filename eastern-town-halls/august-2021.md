@@ -10,6 +10,10 @@ description: Eastern Town Halls - August 2021
 
 ![Welcome to the eastern hemisphere Town Hall](../.gitbook/assets/2021-08-05-7-.png)
 
+### Notes - Eastern Town Hall \#2 - 5th August - 12 to 15 UTC
+
+{% embed url="https://github.com/C3ETH/Catalyst-Eastern-Hemisphere-Co-Ordination/issues/16" %}
+
 ## Eastern Town Hall \#3 - August 12th, 2021
 
 ![](../.gitbook/assets/2021-08-12-4-.png)
